@@ -317,13 +317,10 @@ The application auto-populates with 4 sample experiences:
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 👥 Author
 
-Your Name - [GitHub](https://github.com/yourusername)
+Your Name - [GitHub](https://github.com/Tushar-2702)
 
 ## 🙏 Acknowledgments
 
